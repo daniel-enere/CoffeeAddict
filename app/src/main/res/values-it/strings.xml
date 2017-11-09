@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CoffeeAddict</string>
+    <string name="chocolate">Cioccolato</string>
+    <string name="whipped_cream">Panna Montata</string>
+    <string name="customer_name">Nome</string>
+    <string name="quantity">Quantità</string>
+    <string name="order">Ordinare</string>
+    <string name="order_summary">Riepilogo dell\'ordine</string>
+</resources>
